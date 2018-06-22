@@ -16,7 +16,7 @@ There are two options for adding your repository to this list. The first option 
 either is acceptable.
 
 1.  Submit a pull request, adding your repository to the `list.json5` file.
-2.  Create an issue with the details on your repo and a maintainer will add it to the list for you.
+2.  Create an issue with the details of your repo and a maintainer will add it to the list for you.
 
 ## License
 
